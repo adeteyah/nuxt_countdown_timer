@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0eff210c-1744-4905-bc21-176c6d8bc2c4)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
